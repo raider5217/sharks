@@ -1,0 +1,54 @@
+.sharkletter {
+  text-align: center;
+}
+
+.mail {
+  text-align: center;
+  background-color: lightblue;
+}
+.subscribe {
+  text-align: center;
+}
+.email {
+  text-align: center;
+}
+h1 {
+  transform: rotate(-5deg);
+  color: blue;
+  font-family: cursive;
+  background: linear-gradient(lightCyan, skyBlue);
+}
+
+.shark1 {
+  transform: rotate(5deg);
+  border-radius: 25px;
+  float: right;
+  filter: brightness(125%);
+  border-color: rgb(199, 15, 15);
+}
+
+.shark2 {
+  transform: rotate(-5deg);
+  border-radius: 25px;
+  filter: brightness(125%);
+  border-color: rgb(199, 15, 15);
+}
+
+.shark4 {
+  transform: rotate(5deg);
+  border-radius: 25px;
+  float: right;
+  filter: brightness(125%);
+  border-color: rgb(199, 15, 15);
+}
+
+p {
+  color: blue;
+  font-family: cursive;
+}
+
+.sharkFacts {
+  font-size: 30px;
+  color: blue;
+  font-family: cursive;
+}
