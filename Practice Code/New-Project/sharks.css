@@ -25,7 +25,7 @@ h1 {
 
 .shark1 {
   transform: rotate(5deg);
-
+  border: 20px solid;
   border-radius: 25px;
   float: right;
   filter: brightness(125%);
@@ -34,7 +34,7 @@ h1 {
 
 .shark2 {
   transform: rotate(-5deg);
-
+  border: 20px solid;
   border-radius: 25px;
   filter: brightness(125%);
   border-color: rgba(50, 143, 242);
@@ -42,7 +42,7 @@ h1 {
 
 .shark4 {
   transform: rotate(5deg);
-
+  border: 20px solid;
   border-radius: 25px;
   float: right;
   filter: brightness(125%);
