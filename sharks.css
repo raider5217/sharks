@@ -1,0 +1,74 @@
+.sharkletter {
+  text-align: center;
+}
+
+body,
+html {
+  height: 100%;
+}
+
+
+
+.mail {
+  text-align: center;
+
+  background: linear-gradient(rgb(248, 22, 44), rgb(81, 2, 5));
+}
+::placeholder {
+  color: rgb(50, 143, 242);
+}
+.subscribe {
+  text-align: center;
+}
+.email {
+  text-align: center;
+}
+h1 {
+  transform: rotate(-5deg);
+  color: rgb(50, 143, 242);
+  font-family: cursive;
+  background: linear-gradient(rgb(248, 22, 44), rgb(81, 2, 5));
+}
+
+.shark1 {
+  transform: rotate(5deg);
+  border: 20px solid;
+  border-radius: 25px;
+  float: right;
+  filter: brightness(125%);
+  border-color: rgb(144, 6, 6);
+}
+
+.shark2 {
+  transform: rotate(-5deg);
+  border: 20px solid;
+  border-radius: 25px;
+  filter: brightness(125%);
+  border-color: rgba(50, 143, 242);
+}
+
+.shark4 {
+  transform: rotate(5deg);
+  border: 20px solid;
+  border-radius: 25px;
+  float: right;
+  filter: brightness(125%);
+  border-color: rgb(144, 6, 6);
+}
+
+p {
+  color: rgb(50, 143, 242);
+  font-family: cursive;
+}
+
+.sharkFacts {
+  font-size: 30px;
+  color: rgb(50, 143, 242);
+  font-family: cursive;
+}
+
+.favorite {
+  font-size: 30px;
+  color: rgb(50, 143, 242);
+  font-family: cursive;
+}
